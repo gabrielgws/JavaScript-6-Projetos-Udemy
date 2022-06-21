@@ -1,4 +1,4 @@
-## 🚀 [JavaScript - Curso COMPLETO com 6 Projetos REAIS](https://www.udemy.com/course/react-redux-pt/) 🚀 
+## 🚀 [JavaScript - Curso COMPLETO com 6 Projetos REAIS]([https://www.udemy.com/course/react-redux-pt/](https://www.udemy.com/course/javascript-curso-completo/)) 🚀 
 *( ⌚ 38,5 horas de vídeo sob demanda )*
 
 ### JavaScript do 0 ao Avançado, crie um WhatsApp e Dropbox Clone com Node JS, Express JS, Socket IO, Firebase, Webpack e +!!
